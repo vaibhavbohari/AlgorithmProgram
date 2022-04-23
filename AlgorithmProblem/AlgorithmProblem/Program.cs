@@ -8,8 +8,8 @@ namespace AlgorithmProblem
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Algorithm Problem");
-           
-            PrimeNumber.Prime();  
+
+            BubbleSort.Bubble(); 
 
         }
     } 
